@@ -282,16 +282,6 @@ ul {
     margin-top: 5px;
 }
 
-.project a {
-    text-decoration: none;
-    color: inherit;
-}
-
-.project img {
-    width: 200px;
-    border: 1px solid black;
-}
-
 /* Which element does this target? */
 .project .link {
     color: blue;
